@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mymaizi</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_guide_btn_str">点击立即进入</string>
+    <string name="home">首页</string>
+    <string name="Group">团购</string>
+    <string name="search">发现</string>
+    <string name="my">我的</string>
+</resources>
